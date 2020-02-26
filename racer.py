@@ -1,11 +1,6 @@
-#!/usr/bin/python3
-'''
-taylor@mst.edu
-'''
 
-# Do NOT edit the next two lines of code:
 import sys
-assert ('linux' in sys.platform), "This code should be run on Linux, just a reminder to follow instructions..."
+assert ('linux' in sys.platform)
 
 
 skull = '''
@@ -109,14 +104,6 @@ my_track = ['00   |*     *|',
             '20  |*     *|',
             '21 |*     *|',
             '22  |*     *|']
-
-# Here's how you clear the screen. 
-# To do this before or after what you print?
-# This is intended to work on Linux
-print("\033[H\033[J")
-
-# Write your code here:
-
 
 def game():
     print(car)
