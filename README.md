@@ -1,4 +1,4 @@
-# ascii_racer_game
+# ascii-racer-game
 
 
 Welcome to ASCII Racer!
